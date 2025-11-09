@@ -13,6 +13,9 @@
         android:theme="@style/Theme.NenexBeautySpa"
         tools:targetApi="31">
         <activity
+            android:name=".Inventory"
+            android:exported="false" />
+        <activity
             android:name=".AdminDashboard"
             android:exported="false" />
         <activity
