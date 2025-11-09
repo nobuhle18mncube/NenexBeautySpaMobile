@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1032224812199",
+    "firebase_url": "https://nenexbeautyspa-default-rtdb.firebaseio.com",
+    "project_id": "nenexbeautyspa",
+    "storage_bucket": "nenexbeautyspa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032224812199:android:e726ab487290b81fe67f82",
+        "android_client_info": {
+          "package_name": "com.example.nenexbeautyspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5q0G-9MdenO_4HPXLafZ14j-pUzcU0X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
