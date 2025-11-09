@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navBookings"
+        android:title="Bookings"
+        android:icon="@drawable/ic_bookings"/>
+    <item
+        android:id="@+id/navInventory"
+        android:title="Inventory"
+        android:icon="@drawable/ic_inventory"/>
+    <item
+        android:id="@+id/navAnalytics"
+        android:title="Analytics"
+        android:icon="@drawable/ic_analytics"/>
+    <item
+        android:id="@+id/navLogout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
