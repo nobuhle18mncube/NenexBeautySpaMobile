@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NenexBeautySpa</string>
+
+    <string-array name="admin_roles_array">
+        <item>Select role</item>
+        <item>Hairstylist</item>
+        <item>Barber</item>
+        <item>NailTech</item>
+    </string-array>
 </resources>
